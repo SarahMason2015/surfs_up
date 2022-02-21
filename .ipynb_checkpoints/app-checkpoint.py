@@ -2,8 +2,8 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 7,
-   "id": "b350282a",
+   "execution_count": 13,
+   "id": "0bce6701",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -12,8 +12,8 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 8,
-   "id": "2fc5b0b6",
+   "execution_count": 14,
+   "id": "f5b3cead",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -22,8 +22,8 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 9,
-   "id": "84219efe",
+   "execution_count": 15,
+   "id": "dc81cb61",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -35,7 +35,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "fbd49f7a",
+   "id": "e9cd357b",
    "metadata": {
     "scrolled": true
    },
@@ -45,7 +45,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "4dcf3fba",
+   "id": "865467fd",
    "metadata": {},
    "outputs": [],
    "source": []
@@ -53,9 +53,9 @@
  ],
  "metadata": {
   "kernelspec": {
-   "display_name": "Python 3 (ipykernel)",
+   "display_name": "PythonData",
    "language": "python",
-   "name": "python3"
+   "name": "pythondata"
   },
   "language_info": {
    "codemirror_mode": {
