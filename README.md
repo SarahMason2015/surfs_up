@@ -21,8 +21,14 @@
 
 <h2>Summary </h2>
 
-<p> When making a life changing decision all the facts are necessary to give you the best hope with success. Even with all the information, you can get it wrong. So, no matter how you look at it, life is always going to be a gamble. 
-The information given, and once results have been tallied, leaves much to be desired. A decision shouldn’t be made with two months data. There are so many more factors that can impact a business. Since we already have the weather data, more queries could easily be performed. First, I would gather data from more months. Humidity, the amount of precipitation can also be helpful information. 
+<p> When making a life changing decision all the facts are necessary to give you the best hope with success. Even with all the information, you can get it wrong. So, no matter how you look at it, life is always going to be a gamble. The data found leaves much to be desired, there isn't enough data. There are many more factors that can impact a business. Since we already have the weather data, more queries could easily be performed. 
+
+<p>Additional Data:
+  
+  - Humidity
+  - Precipitation
+  - Wind
+  - Additional months
 
 <p>Although some business will be from locals, the tourist population will drive the business. One of the most important things is to find out when tourist season is. A simple search will find that information.  Then, circle back and pull the data. That might assist in making the best decision. 
 
